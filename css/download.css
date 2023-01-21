@@ -1,0 +1,38 @@
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  transition: all 0.5s;
+}
+
+.wrapper .back-arrow {
+  width: 24px;
+  text-decoration: none;
+  margin-right: 20px;
+  content: url("../img/Arrow 3.svg");
+}
+
+.wrapper h1 {
+  font-family: "Aire Exterior";
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 48px;
+  color: #fff;
+}
+
+.wrapper a {
+  text-decoration: none;
+}
+
+.windows {
+  content: url("../img/Windows-ic.png");
+}
+
+.ios {
+  content: url("../img/Mac-Client-ic.png");
+}
+.linux {
+  content: url("../img/Linux-ic.png");
+}
+.chromeos {
+  content: url("../img/Chrome-ic.png");
+}
