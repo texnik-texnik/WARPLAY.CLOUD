@@ -15,11 +15,6 @@
   padding: 0;
 }
 
-/* Удали его пока, т.к. из-за него появляется скролл на странице */
-.wrapper {
-  overflow-x: hidden;
-}
-
 body {
   background-color: var(--main-bg-color);
   font-family: "Roboto";
